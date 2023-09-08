@@ -1,0 +1,42 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "TOP 10 PLAYERS",
+      "color": 5814783,
+      "fields": [
+        {
+          "name": ":id: PLAYER",
+          "value": "DaMii\nSito\nAndreia\nZeiyton\nSkippy\nDragoCe\nDaddySha\nGhxstyyy\ngeo\naitor",
+          "inline": true
+        },
+        {
+          "name": ":trophy: Score",
+          "value": "204\n173\n163\n156\n115\n101\n96\n83\n80\n70",
+          "inline": true
+        },
+        {
+          "name": ":dagger: Kills",
+          "value": "12\n17\n14\n10\n12\n9\n11\n8\n2\n1",
+          "inline": true
+        },
+        {
+          "name": ":bow_and_arrow: D.kills",
+          "value": "51\n37\n10\n38\n19\n44\n30\n22\n30\n30",
+          "inline": true
+        },
+        {
+          "name": ":scales: K/D",
+          "value": "12.00\n8.50\n14.00\n10.00\n2.00\n3.00\n5.50\n1.14\n2.00\n1.00",
+          "inline": true
+        },
+        {
+          "name": ":crossed_swords: DMG",
+          "value": "82\n79\n70\n59\n80\n36\n30\n55\n39\n35",
+          "inline": true
+        }
+      ]
+    }
+  ],
+  "attachments": []
+}
